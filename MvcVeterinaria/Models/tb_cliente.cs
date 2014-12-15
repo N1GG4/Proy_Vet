@@ -6,7 +6,7 @@ using System.Web;
 using System.ComponentModel.DataAnnotations;
 namespace MvcVeterinaria.Models
 {
-    public class tb_cliente
+    public class tb_clientes
     {
         [Key]
         public string cod_cli { get; set; }
